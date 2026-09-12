@@ -1,15 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML, Full Stack Development, and innovative software projects that solve real-world problems.
+🔭 I’m a Computer Science Engineering student passionate about AI/ML, Full Stack Development, and building innovative software solutions to solve real-world problems.
 
-👯 I’m looking to collaborate on AI-based applications, web development projects, startup ideas, and open-source contributions.
+👯 I’m open to collaborating on AI-powered applications, full-stack projects, startup ideas, and open-source initiatives.
 
-🤝 I’m looking for help with advanced backend development, cloud deployment, scaling projects, and industry-level software architecture.
+🤝 I’m interested in learning and gaining hands-on experience in backend development, cloud technologies, scalable systems, and software architecture.
 
-🌱 I’m currently learning Artificial Intelligence, Machine Learning, Full Stack Development, Spring Boot, MongoDB, MySQL, and modern software engineering practices.
+🌱 I’m currently developing my skills in Artificial Intelligence, Machine Learning, Java, Spring Boot, React, MongoDB, MySQL, and modern software engineering practices.
 
-💬 Ask me about programming, web development, Java, AI/ML projects, startup ideas, and tech innovation.
+💬 I enjoy discussing programming, web development, AI/ML projects, technology innovation, and startup ideas.
 
-⚡ Fun fact: I started my journey with a Diploma in Computer Science from Government CPC Polytechnic and am currently pursuing B.E. in Computer Science Engineering at MIT Thandavapura while building real-world tech projects.
+⚡ I started my journey with a Diploma in Computer Science from Government CPC Polytechnic, Mysore, and I’m currently pursuing a B.E. in Computer Science Engineering at MIT Thandavapura. I’m focused on learning through practical projects and building technology that can create real-world impact.
+
 
 ---
 
